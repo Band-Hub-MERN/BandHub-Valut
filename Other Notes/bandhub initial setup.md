@@ -1,4 +1,5 @@
 # Campus Parking Garage Band Tracker — Initial Obsidian Setup
+-Initial draft draft/writing with the support of copilot 
 
 This note is the initial Obsidian setup for the **Campus Parking Garage Band Tracker** project.
 
